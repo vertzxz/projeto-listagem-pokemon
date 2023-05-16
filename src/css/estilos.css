@@ -114,6 +114,13 @@ main .cartao-pokemon .tipo{
     background-color: #a6b91a;
 }
 
+.normal{
+    background-color: gray;
+}
+
+.voador{
+    background-color: #3dc7ef;
+}
 main .descricao{
     max-height: 80px;
     overflow-y: scroll;
